@@ -940,11 +940,12 @@
 
 .fuct-items .fuct-item .icon {
 	margin: 0 auto;
-	width: 60px;
+	display: flex;
+	width: 30px;
 	height: 60px;
+	align-items: center;
 	text-align: center;
 	font-size: 32px;
-	color: #78cc6d;
 }
 
 .fuct-items .fuct-item .icon .ion, .fuct-items .fuct-item .icon .fab, .fuct-items .fuct-item .icon .fas {
