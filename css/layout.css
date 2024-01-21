@@ -939,6 +939,7 @@
 }
 
 .fuct-items .fuct-item .icon {
+	vertical-align: text-bottom;
 	margin: 0 auto;
 	display: flex;
 	width: 30px;
